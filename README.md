@@ -37,5 +37,5 @@ Ensemble AdaBoost Classifier :
  The most importance features :
 ![alt text][Image7]
   
- [Image7]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "The most importance features"
+ [Image7]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Importance_features_table.PNG "The most importance features"
  
