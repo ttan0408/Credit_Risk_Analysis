@@ -14,9 +14,9 @@ Reviewing the dataset from LendingClud there is class imbalance between high ris
   
  Even compare to the SMOTEENN Algorithm the Naive Radnom Oversampling still have better scores :
  
- The SMOTEENN Algorithm :
+ The SMOTEENN Algorithm (Combination Sampling):
  ![alt text][Image2]
   
-  [Image2]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "The SMOTEENN Algorithm"
+  [Image2]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Combination_sampling.PNG "The SMOTEENN Algorithm"
 
 ## Ensemble Classifiers : Credit Risk Ensemble
