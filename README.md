@@ -25,7 +25,7 @@ Now we use the data training algorithm to find the best model have better predic
 Balanced Random Forest Classifier :
 ![alt text][Image5]
   
- [Image5]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Balanced Random Forest Classifier"
+ [Image5]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.PNG "Balanced Random Forest Classifier"
  
 Ensemble AdaBoost Classifier :
 ![alt text][Image6]
