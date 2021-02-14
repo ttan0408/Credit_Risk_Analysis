@@ -31,3 +31,11 @@ Ensemble AdaBoost Classifier :
 ![alt text][Image6]
   
  [Image6]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Ensemble AdaBoost Classifier"
+ 
+ The summary table of the most importance feature with sorting :
+ 
+ The most importance features :
+![alt text][Image7]
+  
+ [Image7]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "The most importance features"
+ 
