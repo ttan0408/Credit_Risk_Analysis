@@ -30,7 +30,7 @@ Balanced Random Forest Classifier :
 Ensemble AdaBoost Classifier :
 ![alt text][Image6]
   
- [Image6]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Ensemble AdaBoost Classifier"
+ [Image6]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost_Classifier.PNG "Ensemble AdaBoost Classifier"
  
  The summary table of the most importance feature with sorting :
  
