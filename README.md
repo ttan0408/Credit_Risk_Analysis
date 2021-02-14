@@ -56,6 +56,8 @@ The ipynb files are located at this link below :
 
 https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Ensembling/credit_risk_ensemble.ipynb
 
+https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resampling/credit_risk_resampling.ipynb
+
 
 
  
