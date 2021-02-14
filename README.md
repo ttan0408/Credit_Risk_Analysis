@@ -22,7 +22,7 @@ Reviewing the dataset from LendingClud there is class imbalance between high ris
  SMOTE Oversampling :
  ![alt text][Image3]
   
-  [Image3]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Combination_sampling.PNG "SMOTE Oversampling"
+  [Image3]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.PNG "SMOTE Oversampling"
   
  Undersampling :
  ![alt text][Image4]
