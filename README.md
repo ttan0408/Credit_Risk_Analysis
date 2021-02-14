@@ -7,3 +7,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ## Resampling Models
 Reviewing the dataset from LendingClud there is class imbalance between high risk and low risk credit card with the total of 68470 low_risk application vs 347 high_risk. With this class imbalanced dataset we have to use resampling models to remove imbalance between class. These are : Naive Random Oversampling, SMOTE Oversampling, Combination Sampling. Through the sampling models and validating the Naive Random Oversampling has the best balanced accuracy score, the best recall score, and the best geometric mean score here are the summary table between the models : 
 
+ Naive Random Oversampling  : 
+  ![alt text][Image1]
+  
+  [Image1]: https://github.com/ttan0408/Amazon_Vine_Analysis/blob/main/customer%20table.PNG "Naive Random Oversampling"
+
