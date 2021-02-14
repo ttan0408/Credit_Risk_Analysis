@@ -54,6 +54,10 @@ Base on six machine leanrning models we recommend Easy Ensemble AdaBoost Classif
 
 The ipynb files are located at this link below :
 
+https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Ensembling/credit_risk_ensemble.ipynb
+
+
+
  
  
  
