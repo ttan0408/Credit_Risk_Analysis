@@ -10,5 +10,5 @@ Reviewing the dataset from LendingClud there is class imbalance between high ris
  Naive Random Oversampling  : 
   ![alt text][Image1]
   
-  [Image1]: https://github.com/ttan0408/Amazon_Vine_Analysis/blob/main/customer%20table.PNG "Naive Random Oversampling"
+  [Image1]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Naive Random Oversampling"
 
