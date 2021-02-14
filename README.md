@@ -18,6 +18,16 @@ Reviewing the dataset from LendingClud there is class imbalance between high ris
  ![alt text][Image2]
   
   [Image2]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Combination_sampling.PNG "The SMOTEENN Algorithm"
+  
+ SMOTE Oversampling :
+ ![alt text][Image3]
+  
+  [Image3]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Combination_sampling.PNG "SMOTE Oversampling"
+  
+ Undersampling :
+ ![alt text][Image4]
+  
+  [Image4]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Combination_sampling.PNG "Undersampling"
 
 ## Ensemble Classifiers : Credit Risk Ensemble 
 Now we use the data training algorithm to find the best model have better prediction accuracy, trainin algorithm  we used are Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier. The Easy Ensemble AdaBoost Classifier has the best balanced accuracy score of 0.93, the best recall score for identification high_risk application/credit users of 0.92, and the best geometric mean score of 0.93
@@ -38,4 +48,8 @@ Ensemble AdaBoost Classifier :
 ![alt text][Image7]
   
  [Image7]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Importance_features_table.PNG "The most importance features"
+ 
+ ## Model recommendation :
+ 
+ 
  
